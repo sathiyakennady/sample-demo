@@ -1,2 +1,2 @@
-# trivia-game
+
 # sample-demo
